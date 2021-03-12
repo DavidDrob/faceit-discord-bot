@@ -1,6 +1,7 @@
 const fetch = require("node-fetch");
 require('dotenv').config();
 
+
 module.exports = {
     name: 'fct',
     description: "Get your faceit Stats",
