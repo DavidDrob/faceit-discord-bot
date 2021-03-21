@@ -12,7 +12,7 @@ module.exports = {
             .addField("iq", "Measures your IQ")
             .setThumbnail("https://i.imgur.com/AbF0ImL.png")
             .setColor("FF5500")
-            .setFooter("Feel free to contribute! https://github.com/DavidDrob/discord-faceit-bot", "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png");
+            .setFooter("Feel free to contribute! https://github.com/DavidDrob/faceit-discord-bot", "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png");
             
             message.channel.send(embed)
     }
