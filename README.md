@@ -16,7 +16,3 @@ You can contact the owner on Discord l1ght#2019
 # Bugs
 
 If you see encounter any bugs message me on Discord (l1ght#2019) or submit an issue/pull request
-
-# Donating
-BTC - 1Q36SxMBTcKkqJLULYTVccraeJPkEQwtse
-DOGE - DPYZoXKQVLbcvqx3qHgSL8A6DBsy5RVG3p
